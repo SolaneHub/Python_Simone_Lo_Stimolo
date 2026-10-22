@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 
-
 categories = ['A', 'B', 'C', 'D', 'E']
 
 values = [3, 7, 2, 5, 8]
