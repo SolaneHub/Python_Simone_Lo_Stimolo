@@ -1,0 +1,8 @@
+ho iniziato a verificare se tutti i dati fossero corretti per quanto riguarda il tipo e se ci fosse la presenza di valori nulli.
+
+stampando entrambi i DF ho notato che c'erano dei prodotti di test, prontamente li ho isolati e poi successivamente rimossi.
+
+c'erano inoltre dei prodotti che non avevano ancora delle vendite, andavano normalizzati e quindi gli ho associato 0 come valore di default.
+
+ho voluto fare uno studio su quali sono stati i 5 prodotti più venduti utilizzando un grafico a torta
+
